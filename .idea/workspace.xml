@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bee95db7-5ad1-4e17-a66a-435ac38377de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hSmipuL4VKIk3xNfpdqWohtJgK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OPE Encryption" />
+      <option name="PROGRAM_PARAMETERS" value="D:\Compile\datasetA.csv D:\Compile\kunci1.csv D:\Compile\enkrip2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="OPE Encryption" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="enkripsi-ope [file:/C:/Users/ASUS/IdeaProjects/Enkripsi%20OPE/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="OPE Encryption-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3200026066485" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2341675748" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="87871327" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bee95db7-5ad1-4e17-a66a-435ac38377de" name="Default Changelist" comment="" />
+      <created>1600012997678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600012997678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="75" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601737644585">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="75" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601737644585" />
+    <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1600013290108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1600013290108" />
+    <state x="412" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600013609667">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1600013609667" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601733733057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601733733057" />
+    <state width="1323" height="115" key="GridCell.Tab.0.bottom" timestamp="1601781085621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="115" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601781085621" />
+    <state width="1323" height="115" key="GridCell.Tab.0.center" timestamp="1601781085621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="115" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601781085621" />
+    <state width="1323" height="115" key="GridCell.Tab.0.left" timestamp="1601781085621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="115" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601781085621" />
+    <state width="1323" height="115" key="GridCell.Tab.0.right" timestamp="1601781085621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="115" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601781085621" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601732407991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601732407991" />
+    <state x="65" y="88" key="new project wizard" timestamp="1601733822992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="88" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1601733822992" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601136502346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601136502346" />
+  </component>
+</project>
